@@ -1,6 +1,4 @@
-﻿
-
-namespace ElectronicGumballMachine
+﻿namespace ElectronicGumballMachine
 {
 
     internal class SoldOutMachine : IStateMachine
