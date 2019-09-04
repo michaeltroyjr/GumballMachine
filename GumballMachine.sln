@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicGumballMachine", "GumballMachine\ElectronicGumballMachine.csproj", "{BE6118D1-FC02-4CC2-8084-4E2B4256C07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6118D1-FC02-4CC2-8084-4E2B4256C07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6118D1-FC02-4CC2-8084-4E2B4256C07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6118D1-FC02-4CC2-8084-4E2B4256C07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6118D1-FC02-4CC2-8084-4E2B4256C07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4840D2C6-C433-4F9E-8F98-75348D03DD5F}
+	EndGlobalSection
+EndGlobal

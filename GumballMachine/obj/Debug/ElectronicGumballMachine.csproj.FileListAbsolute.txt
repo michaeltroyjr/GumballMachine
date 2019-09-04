@@ -1,0 +1,11 @@
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\bin\Debug\ElectronicGumballMachine.exe.config
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\bin\Debug\ElectronicGumballMachine.exe
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\bin\Debug\ElectronicGumballMachine.pdb
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\bin\Debug\nunit.framework.dll
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\bin\Debug\nunit.framework.pdb
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\bin\Debug\nunit.framework.xml
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\ElectronicGumballMachine.csprojAssemblyReference.cache
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\ElectronicGumballMachine.csproj.CoreCompileInputs.cache
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\ElectronicGumballMachine.csproj.CopyComplete
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\ElectronicGumballMachine.exe
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\ElectronicGumballMachine.pdb

@@ -1,0 +1,2 @@
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\GumballMachine.csprojAssemblyReference.cache
+C:\projects.net\Personal Development Time\GumballMachine\GumballMachine\obj\Debug\GumballMachine.csproj.CoreCompileInputs.cache
